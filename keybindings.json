@@ -1,0 +1,30 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    // simulate vim navigation to avoid using arrows
+    {
+        "key": "alt+k",
+        "command": "cursorUp",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+j",
+        "command": "cursorDown",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+h",
+        "command": "cursorLeft",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+l",
+        "command": "cursorRight",
+        "when": "editorTextFocus"
+    },
+    //quickly undo changes in a file since last save
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.files.revert",
+        "when": "editorTextFocus"
+    }
+]
