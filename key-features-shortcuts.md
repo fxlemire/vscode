@@ -33,3 +33,11 @@ Key Features of Visual Studio Code
 * Full Screen: `F11`
 * Hide/Show Side Bar: `ctrl+b`
 * Preview MD: `ctrl+shift+v`
+
+### Debugging
+* Run/Pause: `F5`
+* Stop: `shift+F5`
+* Step Over: `F10`
+* Step Into: `F11`
+* Step Out: `shift+F11`
+* Toggle Breakpoint: `F9`
