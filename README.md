@@ -13,6 +13,9 @@ See also:
 * [Snippets](https://code.visualstudio.com/docs/customization/userdefinedsnippets)
     * [Angular](https://github.com/johnpapa/angular-styleguide/tree/master/a1/assets/vscode-snippets)
 
+* [Tasks](https://code.visualstudio.com/docs/editor/tasks)
+    * [Problem Matchers](https://code.visualstudio.com/docs/editor/tasks#_defining-a-problem-matcher)
+
 * [Useful Extensions](https://code.visualstudio.com/docs/extensions/overview)
     * jshint
     * jscs linting
