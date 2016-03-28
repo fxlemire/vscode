@@ -1,6 +1,8 @@
 Visual Studio Code
 ==================
-Settings and notes for Visual Studio Code.
+* [Workspace Settings](settings.json)
+* [Keybindings Settings](keybindings.json)
+* [Shortcuts of Key Features](key-features-shortcuts.md)
 
 See also:
 
