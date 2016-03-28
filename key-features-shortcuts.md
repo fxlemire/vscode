@@ -3,6 +3,8 @@ Key Features of Visual Studio Code
 * Auto-Complete (IntelliSense): `ctrl+space`
 * Navigate Between Values (eg. change value true to false): `ctrl+shift+./,`
 * Format Code: `shift+alt+f`
+* Comment: `ctrl+/`
+* Copy Above/Below: `shift+alt+up/down`
 * Add Cursor: `ctrl+alt+up/down` or `alt+click`
 * Add Line Below/Above Cursor: `ctrl(+shift)+Enter`
 * Add Cursors on Selection: `shift+alt+i`
