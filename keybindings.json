@@ -26,5 +26,13 @@
         "key": "ctrl+r",
         "command": "workbench.action.files.revert",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+t",
+        "command": "workbench.action.tasks.runTask"
+    },
+    {
+        "key": "ctrl+alt+c",
+        "command": "workbench.action.tasks.terminate"
     }
 ]
