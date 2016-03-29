@@ -1,0 +1,36 @@
+{
+    "version": "0.1.0",
+    "command": "gulp",
+    "isShellCommand": true,
+    "args": [
+        "--no-color"
+    ],
+    "tasks": [
+        {
+            "taskName": "styles",
+            "suppressTaskName": true,
+            "args": ["styles"],
+            "isBuildCommand": true,
+            "isWatching": false,
+            "problemMatcher": {
+                "owner": "sass-lint",
+                "fileLocation": ["relative", "${workspaceRoot}"],
+                "pattern": [
+                    {
+                        "regexp": "^([^\\s].*)$",
+                        "file": 1
+                    },
+                    {
+                        "regexp": "^\\s*(\\d+):(\\d+)\\s+(warning|error)\\s+(.*)\\s\\s+(.*)$",
+                        "line": 1,
+                        "column": 2,
+                        "severity": 3,
+                        "message": 4,
+                        "code": 5,
+                        "loop": true
+                    }
+                ]
+            }
+        }
+    ]
+}
