@@ -1,6 +1,6 @@
 Visual Studio Code
 ==================
-* [Workspace Settings](settings.json)
+* [User/Workspace Settings](settings.json)
 * [Keybindings Settings](keybindings.json)
 * [Shortcuts of Key Features](key-features-shortcuts.md)
 
