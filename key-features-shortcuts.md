@@ -6,8 +6,10 @@ Key Features of Visual Studio Code
 * Comment: `ctrl+/`
 * Copy Above/Below: `shift+alt+up/down`
 * Add Cursor: `ctrl+alt+up/down` or `alt+click`
-* Add Line Below/Above Cursor: `ctrl(+shift)+Enter`
+* Add Cursor on Selected Column: `ctrl+alt+shift+up/down`
 * Add Cursors on Selection: `shift+alt+i`
+* Select Column with Mouse: `alt+shift+left-click (hold)`
+* Add Line Below/Above Cursor: `ctrl(+shift)+Enter`
 * Command Palette: `ctrl+p` (also file history)
     * Search For a File: `keyword`
     * Run Command: `>` (`ctrl+shift+p`)
