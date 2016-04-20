@@ -1,13 +1,15 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.tabSize": 2,
-    "files.trimTrailingWhitespace": true,
-    "search.exclude": {
-        "**/node_modules": true,
-        "**/bower_components": true,
-        "**/.git": true,
-        "**/.tmp": true,
-        "**/build": true
-    }
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "javascript.validate.enable": false,
+  "search.exclude": {
+    "**/.git": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/node_modules": true,
+    "**/public": true,
+    "**/typings": true
+  }
 }
