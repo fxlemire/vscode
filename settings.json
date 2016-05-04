@@ -2,6 +2,10 @@
 {
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.tabSize": 2,
+  "files.associations": {
+    ".babelrc": "json",
+    "*.vue": "html"
+  },
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
   "search.exclude": {
