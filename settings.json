@@ -2,6 +2,7 @@
 {
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.tabSize": 2,
+  "editor.wrappingColumn": 0,
   "files.associations": {
     ".babelrc": "json",
     "*.vue": "html"
