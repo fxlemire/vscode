@@ -2,7 +2,8 @@
 {
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.tabSize": 2,
-  "editor.wrappingColumn": 0,
+  "explorer.autoReveal": false,
+  "externalTerminal.windowsExec": "powershell",
   "files.associations": {
     ".babelrc": "json",
     "*.vue": "html"
