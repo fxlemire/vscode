@@ -11,7 +11,6 @@
   },
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
-  "php.validate.executablePath": "C:/php-7.0.6/php.exe",
   "search.exclude": {
     "**/.git": true,
     "**/bower_components": true,
